@@ -6,4 +6,7 @@
 ### protocol.py,client.py,server.py : Source Code ของโปรแกรม
 ### NetworkPDF : PDF อธิบายข้อ 1.
 ### Presentation : สไลด์นำเสนอ Project
-### Link วิดีโอสำรอง : TBA
+# Exercise 1: IP Subnetting
+# 01418351 Socket Programming Presentation
+## จักริน แสนภักดี 6710404889
+### Ex1IP : ไฟล์การบ้าน Exercise 1
